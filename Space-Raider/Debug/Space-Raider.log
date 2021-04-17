@@ -1,0 +1,18 @@
+﻿  Main.cpp
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(56,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(56,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(57,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(74,28): warning C4018: '<': signed/unsigned mismatch
+  Space-Raider.vcxproj -> X:\Support\SFML\Space Raider\Space-Raider\Debug\Space-Raider.exe
