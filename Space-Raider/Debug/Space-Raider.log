@@ -1,18 +1,34 @@
 ﻿  Main.cpp
-X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(56,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\headers\Main.h(43,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(71,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(71,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(77,96): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(56,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(77,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(57,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(78,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(74,28): warning C4018: '<': signed/unsigned mismatch
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(137,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(137,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(150,25): warning C4305: 'argument': truncation from 'double' to 'float'
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(221,77): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(243,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+X:\Support\SFML\Space Raider\Space-Raider\Main.cpp(244,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Space-Raider.vcxproj -> X:\Support\SFML\Space Raider\Space-Raider\Debug\Space-Raider.exe
