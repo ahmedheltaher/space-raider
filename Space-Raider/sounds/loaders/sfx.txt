@@ -1,0 +1,10 @@
+big_Stone Big_Stone.wav
+Enemy_Ship_Destroyed Enemy_Ship_Destroyed.wav
+shooting Laser.wav
+Lost_All_Lives Lost_All_Lives.wav
+Lost_one_life Lost_one_life.wav
+medium_Stone Mid_Stone.wav
+PowerUp PowerUp.wav
+menu Select.wav
+small_Stone Small_Stone.wav
+TakeDMG TakeDMG.wav

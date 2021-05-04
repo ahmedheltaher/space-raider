@@ -153,10 +153,17 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="source\FPS.cpp" />
+    <ClCompile Include="source\Menu.cpp" />
+    <ClCompile Include="source\SoundManager.cpp" />
+    <ClCompile Include="source\Storage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="headers\Enemy.h" />
     <ClInclude Include="headers\FPS.h" />
     <ClInclude Include="headers\Main.h" />
+    <ClInclude Include="headers\Menu.h" />
+    <ClInclude Include="headers\SoundManager.h" />
+    <ClInclude Include="headers\Storage.h" />
     <ClInclude Include="headers\Time.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
