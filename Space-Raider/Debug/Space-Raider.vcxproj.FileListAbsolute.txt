@@ -1,2 +1,0 @@
-X:\Support\SFML\Space Raider\Space-Raider\Debug\Space-Raider.exe
-X:\Support\SFML\Space Raider\Space-Raider\Debug\Space-Raider.pdb
